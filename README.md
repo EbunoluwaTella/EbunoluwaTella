@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EbunoluwaTella
-- 👀 I’m interested in Data Analysis
+- 👀 I’m actively learning Data Analysis
 - 🌱 I’m currently learning Sql, Power Bi
 - 💞️ I’m looking to collaborate on open souce projects
 - 📫 How to reach me 
